@@ -8,7 +8,7 @@ Utilizes YOLOv8 object detection.
 
 Week6.ipynb used for pre-processing.
 
-ComputerVisionProject used for the rest.
+ComputerVisionProject.ipnby used for training, testing and validation.
 
 Michael Tjokrowardojo (301416843)
 
