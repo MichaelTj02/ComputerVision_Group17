@@ -6,6 +6,10 @@ Detecting if motorcycle riders on the road are wearing or not wearing a helmet a
 
 Utilizes YOLOv8 object detection.
 
+Week6.ipynb used for pre-processing.
+
+ComputerVisionProject used for the rest.
+
 Michael Tjokrowardojo (301416843)
 
 Ryan Ng (301442370)
